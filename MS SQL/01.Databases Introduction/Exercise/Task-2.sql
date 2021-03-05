@@ -1,0 +1,10 @@
+CREATE TABLE Minions (
+	Id INT PRIMARY KEY,
+	[Name] TEXT,
+	Age INT
+)
+
+CREATE TABLE Towns (
+	Id INT PRIMARY KEY,
+	[Name] TEXT
+)
